@@ -20,17 +20,6 @@ Their Vision Statement : A world of enabled and connected little minds, building
 To see the implementation check this link -https://github.com/manasa-m10/The-Sparks-Foundation/blob/main/Task%201%20Linear_Regression.ipynb
 
 
-## Task # 3 - To explore Business Analytics
-
-    Perform ‘Exploratory Data Analysis’ on the provided dataset SampleSuperstore’
-    You are the business owner of the retail firm and want to see how your company is performing. You are interested in finding
-    out the weak areas where you can work to make more profit. What all business problems you can derive by looking into the
-    data? You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
-    
-To see the implementation click on this link - https://github.com/manasa-m10/The-Sparks-Foundation/blob/main/Task%203%20EDA%20on%20SuperStore.ipynb
-
-                     
-
 # Acknowledgments
 
 * Special Thanks to **The Sparks Foundation** for this Wonderful Internship Experience and Inspiration to do more.
