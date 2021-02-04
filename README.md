@@ -19,7 +19,7 @@ Their Vision Statement : A world of enabled and connected little minds, building
     This is a simple linear regression task as it involves just two variables. Data can be found at http://bit.ly/w-data.
     What will be predicted score if a student study for 9.25 hrs in a day? 
 
-To see the implementation check this link -https://github.com/harshit9665/Prediction-of-Student-Marks-through-Regression
+To see the implementation check this link -https://github.com/manasa-m10/The-Sparks-Foundation/blob/main/Task%201%20Linear_Regression.ipynb
 
 
 ## Task # 3 - To explore Business Analytics
